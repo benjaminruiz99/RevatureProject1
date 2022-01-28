@@ -31,4 +31,9 @@
 (Assumes you have HDFS and SBT configured)
 - git clone https://github.com/benjaminruiz99/RevatureProject1/edit/main/README.md
 - cd into RevatureProject1/src/main/scala
+
+# Usage
 - run httptest.scala
+
+# Contributors
+- Benjamin Ruiz
