@@ -24,3 +24,11 @@
 - Git + GitHub
 
 # Features
+ - Pulls basketball information from free  online API
+ - Performs queries on the data pulled from API using Spark to answer analytical questions
+
+# Getting Started
+(Assumes you have HDFS and SBT configured)
+- git clone https://github.com/benjaminruiz99/RevatureProject1/edit/main/README.md
+- cd into RevatureProject1/src/main/scala
+- run httptest.scala
